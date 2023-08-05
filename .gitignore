@@ -1,1 +1,3 @@
 /.venv
+.DS_Store
+data/kaggle/crimes_2001-present.csv
